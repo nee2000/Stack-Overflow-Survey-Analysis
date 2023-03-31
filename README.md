@@ -6,7 +6,7 @@
     <h2>About the dataset</h2>
     <p>Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses.</p>
     <p>
-    <p>Note: This randomised subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.</p>
+    <p>Note: This randomised subset contains around 1/8th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.</p>
     <p>
     <p>The below table lists the questions asked in the survey and the column under which the response was collected.</p>
     <table>
